@@ -103,4 +103,4 @@ npm install
 npm run dev
 ```
 
-Open [ResumeLens.com](https://resumelens-rg1i1okqs-rakesh1719g-6273s-projects.vercel.app/) in your browser to view the project.
+Open [Resumind.com](https://resumelens-rg1i1okqs-rakesh1719g-6273s-projects.vercel.app/) in your browser to view the project.
